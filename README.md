@@ -1,5 +1,7 @@
 # secshame
 
+[![Join the chat at https://gitter.im/smiller171/secshame](https://badges.gitter.im/smiller171/secshame.svg)](https://gitter.im/smiller171/secshame?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > shame websites with easy security flaws
 
 ## Build Setup
