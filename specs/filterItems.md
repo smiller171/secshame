@@ -44,3 +44,8 @@
 | minFunnyRate | 1-10 | INT | none | match issues with funniness above VAL |
 | maxFunnyRate | 1-10 | INT | none | match issues with funniness below VAL |
 | reportedBy | Scott Miller | STRING | none | match issues reported by VAL |
+
+## Errors
+- [ ] If options are invalid, return `Error: options invalid`
+- [ ] If parsing runs into an error, pass that error up the stack
+- [ ] If parsing returns no valid items, return `Error: no matching items` and an empty array

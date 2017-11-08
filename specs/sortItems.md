@@ -23,3 +23,7 @@ low indicates lower to higher or reverse alphabetical
   "Sort": "high"
 }
 ```
+
+## Errors
+- [ ] If options are invalid, return an error
+- [ ] If sorting returns an error, pass that up the stack
